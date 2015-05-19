@@ -1,0 +1,9 @@
+tietokone
+tiikeri
+ohjelmointi
+yliopisto
+kurssi
+etana
+talo
+juna
+linja-auto
